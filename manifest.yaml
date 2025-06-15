@@ -1,13 +1,14 @@
-version: 0.0.17
+version: 0.0.1
 type: plugin
-author: "langgenius"
-name: "openai_api_compatible"
+author: "liangpn"
+name: "openai-api-compatible-fork"
 description:
-  en_US: Model providers compatible with OpenAI's API standard, such as LM Studio.
-  zh_Hans: 兼容 OpenAI API 的模型供应商，例如 LM Studio 。
+  en_US: "Fork of OpenAI API compatible model provider with thinking_budget support. Based on official v0.0.16."
+  zh_Hans: "OpenAI API 兼容模型提供商的 fork 版本，支持 thinking_budget 参数。基于官方 v0.0.16 版本。"
 label:
-  en_US: "OpenAI-API-compatible"
-created_at: "2024-07-12T08:03:44.658609186Z"
+  en_US: "OpenAI-API-compatible (Fork)"
+  zh_Hans: "OpenAI API 兼容版 (Fork)"
+created_at: "2025-06-15T17:40:00+08:00"
 icon: icon.svg
 resource:
   memory: 1048576
